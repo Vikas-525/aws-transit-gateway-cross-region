@@ -55,3 +55,7 @@ Project screenshots are included in this repository as evidence of the VPC confi
 Outcome
 
 Successfully demonstrated cross-Region private network connectivity between VPCs in Mumbai and Singapore using AWS Transit Gateway.
+
+## Architecture Diagram
+
+![AWS Transit Gateway Cross-Region Architecture](arch.jpeg)
